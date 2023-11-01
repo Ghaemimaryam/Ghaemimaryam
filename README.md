@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ghaemimaryam
+- 👋 Hi, I’m Maryam Ghaemi
 - 👀 I’m interested in Data science 
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ...
